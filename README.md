@@ -9,29 +9,15 @@ This repository hosts an Analytics Dashboard created with Power BI, offering a c
 ## Dashboard Visualizations
 
 ### 1. Total Connections by Month
-
-![Total Connections by Month](images/total-connections.png)
-
 This visualization tracks the monthly evolution of our network's total connections. It provides an invaluable perspective on our network's growth trajectory.
 
 ### 2. Word Cloud by Position
-
-![Word Cloud by Position](images/word-cloud.png)
-
 The Word Cloud chart dynamically visualizes the most frequently occurring job titles or positions within our network. This can help identify key roles and areas of expertise.
 
 ### 3. Top 10 Companies by Connections
-
-![Top 10 Companies by Connections](images/top-companies.png)
-
 This chart highlights the top 10 companies with the highest number of connections, offering insights into our most significant business relationships and affiliations.
 
 ### 4. Invitations Received and Sent
-
-![Invitations Received](images/invitations-received.png)
-
-![Invitations Sent](images/invitations-sent.png)
-
 These visuals depict the count of invitations received and invitations sent. Analyzing this data is vital for tracking engagement and outreach strategies.
 
 ### 5. Messages Received and Sent
@@ -41,6 +27,7 @@ These visuals depict the count of invitations received and invitations sent. Ana
 ![Messages Sent](images/messages-sent.png)
 
 These charts illustrate the volume of messages received and messages sent within our network, providing visibility into communication trends.
+![LinkedIn Dashboard Analytics](images/LinkedIn Profile Analytics Dashboard.png)
 
 ## How to Use
 
