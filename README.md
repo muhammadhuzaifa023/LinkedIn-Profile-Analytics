@@ -21,13 +21,12 @@ This chart highlights the top 10 companies with the highest number of connection
 These visuals depict the count of invitations received and invitations sent. Analyzing this data is vital for tracking engagement and outreach strategies.
 
 ### 5. Messages Received and Sent
-
-![Messages Received](images/messages-received.png)
-
-![Messages Sent](images/messages-sent.png)
-
 These charts illustrate the volume of messages received and messages sent within our network, providing visibility into communication trends.
+
+
 ![LinkedIn Dashboard Analytics](images/LinkedIn%20Profile%20Analytics%20Dashboard.PNG)
+
+
 ## How to Use
 
 To utilize this Power BI dashboard effectively, follow these steps:
