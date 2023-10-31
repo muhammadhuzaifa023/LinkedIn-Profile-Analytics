@@ -27,7 +27,7 @@ These visuals depict the count of invitations received and invitations sent. Ana
 ![Messages Sent](images/messages-sent.png)
 
 These charts illustrate the volume of messages received and messages sent within our network, providing visibility into communication trends.
-![LinkedIn Dashboard Analytics](images/LinkedIn Profile Analytics Dashboard.png)
+![LinkedIn Dashboard Analytics](images/LinkedIn Profile Analytics Dashboard.PNG)
 
 ## How to Use
 
