@@ -64,7 +64,7 @@ This project is licensed under the MIT License. For complete details, consult th
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [Muhammad Huzaifa](https://github.com/muhammadhuzaifa023)
 
 ## Acknowledgments
 
