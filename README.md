@@ -27,8 +27,7 @@ These visuals depict the count of invitations received and invitations sent. Ana
 ![Messages Sent](images/messages-sent.png)
 
 These charts illustrate the volume of messages received and messages sent within our network, providing visibility into communication trends.
-![LinkedIn Dashboard Analytics](images/LinkedIn Profile Analytics Dashboard.PNG)
-
+![LinkedIn Dashboard Analytics](images/LinkedIn%20Profile%20Analytics%20Dashboard.PNG)
 ## How to Use
 
 To utilize this Power BI dashboard effectively, follow these steps:
